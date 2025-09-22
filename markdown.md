@@ -13,3 +13,4 @@ Tugas 1
 
 Tugas 2
 ![image alt](https://github.com/hisyamamamammm/Prakmetkom/blob/27aed5a67520bb32b20ddcfc75e45aec7b1b9cbd/Screenshot%202025-09-22%20225944.png)
+bukti: ![image alt](https://github.com/hisyamamamammm/Prakmetkom/blob/721732a47dbdb4a8482d1bfcad311f3b9214038a/Screenshot%202025-09-22%20191817.png)
