@@ -12,4 +12,4 @@ Tugas 1
 -Bagaimana memanfaatkan Markdown extensions 
 
 Tugas 2
-![imag
+![image alt](https://github.com/hisyamamamammm/Prakmetkom/blob/27aed5a67520bb32b20ddcfc75e45aec7b1b9cbd/Screenshot%202025-09-22%20225944.png)
